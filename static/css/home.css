@@ -1,0 +1,13 @@
+
+.bg-grad {
+    background: #4e4a54;
+    /* background: linear-gradient(243deg, rgb(196, 154, 85) 1%, rgb(144, 106, 45) 100%); */
+}
+.bg-grad:hover {
+    background: #2f2c33;
+    transition: all 0.5s ease;
+}
+.bg-header {
+    background: rgb(160,255,171);
+    background: linear-gradient(243deg, rgba(160,255,171,1) 1%, rgba(0,149,17,1) 100%);
+}
